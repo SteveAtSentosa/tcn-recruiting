@@ -7,6 +7,7 @@
 
 [Python LLM Candiates](#python-llm-candidates)
   - [Rahul Chowdhury](#rahul-chowdhury)
+  - [Rodrigo Camargo](#rodrigo-camargo)
 
 # Devops Candidates
 
@@ -94,10 +95,9 @@
 * Mid-level engineer with nearly 2 years LLM integration experience
 * Experience with FastAPI backend dev
 * His Python cosing challenge went well
-* He has developed full stack apps using flutter apps for local Brazilan copmanies that are deployed and run
+* He has developed, deployed, and is managing flutter based full stack apps for local Brazilan copmanies
 * He strikes me as a real scrapper, he showed us some diverse personal and professional projects
-* Really nice personaolity
-* English is decent
+* Really nice personaolity, english is decent
 * Cost will be mid level
 
 `CV`
