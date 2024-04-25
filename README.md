@@ -8,6 +8,7 @@
 [Python LLM Candiates](#python-llm-candidates)
   - [Rahul Chowdhury](#rahul-chowdhury)
   - [Rodrigo Camargo](#rodrigo-camargo)
+  - [Marcos Santos](#marcos-santos)
 
 # Devops Candidates
 
@@ -19,8 +20,8 @@
 * CableLabs CTO gives Santhosh highest of reccomendations
 * Very senior engineer with heavy devops (10+ years), and some dev experience
 * AWS/Terraform experience
-* Cost will be on the higher end
 * Availble immediatly
+* Cost: he has not said yet, but he is used to being paid pretty hith.
 
 `CV`
 * [Resume](https://github.com/SteveAtSentosa/tcn-recruiting/blob/master/resumes/sentosa-resume-devops-Santhosh-Kulasekar.pdf)
@@ -38,7 +39,7 @@
 * AWS/Terraform experience
 * English is reasonable, but not great
 * Kind of geeky, but I really liked him, he seemed serious about his job
-* Cost will be on the lower end
+* Cost $55/hr
 
 `CV`
 * [Resume](https://github.com/SteveAtSentosa/tcn-recruiting/blob/master/resumes/sentosa-resume-devops-Eric-Sakamoto.pdf)
@@ -57,7 +58,7 @@
 * AWS/Terraform experience
 * English is a bit tough to understand
 * Very enthusiatic personalty, and he has a devOps focused youtube channel, so we know he is enthusiastic about his craft.
-* Cost will be in the middle range
+* Cost $55/hr
 
 `CV`
 * [Resume](https://github.com/SteveAtSentosa/tcn-recruiting/blob/master/resumes/sentosa-resume-devops-Daniel-Oliveria.pdf)
@@ -91,14 +92,14 @@
 ## Rodrigo Camargo
 
 `Summary`
-* Country: US
+* Country: Brazil
 * Mid-level engineer with nearly 2 years LLM integration experience
 * Experience with FastAPI backend dev
 * His Python cosing challenge went well
 * He has developed, deployed, and is managing flutter based full stack apps for local Brazilan copmanies
 * He strikes me as a real scrapper, he showed us some diverse personal and professional projects
 * Really nice personaolity, english is decent
-* Cost will be mid level
+* Cost $55/hr
 
 `CV`
 * [Resume](https://github.com/SteveAtSentosa/tcn-recruiting/blob/master/resumes/sentosa-resume-py-llm-Rodrigo-Camargo.pdf)
@@ -107,6 +108,25 @@
 `Contact Info`
 * guigonunescamargo@gmail.com
 
+
+## Marcos Santos
+
+`Summary`
+* Country: Brazil
+* Senior LLM engineer and architect
+* Experience with FastAPI backend dev
+* He built an entire non-trivial entire LLM app from scratch in front of my eyes
+* Very familiar with LLM echo system, tools, framworks etc
+* If you need someone who can drive an archtiecture from the ground up, Marcos is the guy
+* He is primarily money driven, which his primary motivation for a new opportunity
+* May be able to get him at a rate to TCN of $110-ish, if that is workable
+
+`CV`
+
+* [Linkedin](https://www.linkedin.com/in/marcosnataqs/)
+
+`Contact Info`
+* guigonunescamargo@gmail.com
 
 
 
