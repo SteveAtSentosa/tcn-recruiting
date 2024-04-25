@@ -16,12 +16,12 @@
 
 `Summary`
 * Country: US
-* Santosh and I (Steve) worked together tangentially at CableLabs
+* Santosh and I worked together tangentially at CableLabs
 * CableLabs CTO gives Santhosh highest of reccomendations
 * Very senior engineer with heavy devops (10+ years), and some dev experience
 * AWS/Terraform experience
 * Availble immediatly
-* Cost: he has not said yet, but he is used to being paid pretty hith.
+* Cost: he has not said yet, but he is used to being paid pretty well.  Let me know if you have a top number, and I will see if it is workable.
 
 `CV`
 * [Resume](https://github.com/SteveAtSentosa/tcn-recruiting/blob/master/resumes/sentosa-resume-devops-Santhosh-Kulasekar.pdf)
@@ -78,7 +78,7 @@
 * Full stack experience Nodejs, mongoDB, experience, React, Angular, Postgres
 * Python - not recent experience, but plenty in at graduate school level
 * Bapu has spoken with Rahul
-* Cost will be on the higher end
+* cost $100/hr
 
 `CV`
 * [Resume](https://github.com/SteveAtSentosa/tcn-recruiting/blob/master/resumes/sentosa-resume-py-llm-Rahul-Chowdhury.pdf)
@@ -119,7 +119,7 @@
 * Very familiar with LLM echo system, tools, framworks etc
 * If you need someone who can drive an archtiecture from the ground up, Marcos is the guy
 * He is primarily money driven, which his primary motivation for a new opportunity
-* May be able to get him at a rate to TCN of $110-ish, if that is workable
+* May be able to get him at a rate to TCN of $110-ish, if that is workable on your side
 
 `CV`
 
