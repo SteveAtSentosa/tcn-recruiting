@@ -1,34 +1,15 @@
 # TOC
 
 [DevOps Candidates](#devops-candidates)
-  - [Santhosh Kulasekar](#santhosh-kulasekar)
   - [Eric Sakamoto](#eric-sakamoto)
   - [Daniel Oliveria](#daniel-olivera)
 
 [Python LLM Candiates](#python-llm-candidates)
-  - [Rahul Chowdhury](#rahul-chowdhury)
   - [Rodrigo Camargo](#rodrigo-camargo)
   - [Marcos Santos](#marcos-santos)
 
 # Devops Candidates
 
-## Santhosh Kulasekar
-
-`Summary`
-* Country: US
-* Santosh and I worked together tangentially at CableLabs
-* CableLabs CTO gives Santhosh highest of reccomendations
-* Very senior engineer with heavy devops (10+ years), and some dev experience
-* AWS/Terraform experience
-* Availble immediatly
-* Cost: he has not said yet, but he is used to being paid pretty well.  Let me know if you have a top number, and I will see if it is workable.
-
-`CV`
-* [Resume](https://github.com/SteveAtSentosa/tcn-recruiting/blob/master/resumes/sentosa-resume-devops-Santhosh-Kulasekar.pdf)
-* [Linkedin](https://www.linkedin.com/in/santhosh-k-8884504/)
-
-`Contact Info`
-* santhosh.mk@gmail.com
 
 ## Eric Sakamoto
 
@@ -69,25 +50,6 @@
 
 
 # Python LLM Candidates
-
-## Rahul Chowdhury
-
-`Summary`
-* Country: US
-* Mid Level Engineer with 2+ years of LLM integration experience
-* Full stack experience Nodejs, mongoDB, experience, React, Angular, Postgres
-* Python - not recent experience, but plenty in at graduate school level
-* Bapu has spoken with Rahul
-* cost $100/hr
-
-`CV`
-* [Resume](https://github.com/SteveAtSentosa/tcn-recruiting/blob/master/resumes/sentosa-resume-py-llm-Rahul-Chowdhury.pdf)
-* [Linkedin](https://www.linkedin.com/in/rahuchow/)
-* [Github](https://github.com/rc1208)
-
-`Contact Info`
-* chowdhuryrahul5@gmail.com
-
 
 ## Rodrigo Camargo
 
